@@ -1,0 +1,5 @@
+{{#user}
+Name: Krishika Agrawal
+Skills: HTML, CSS, JS, Bootstrap, Figma
+Email: agrawalkrishika592@gmail.com
+{{/user}}
